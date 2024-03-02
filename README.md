@@ -46,9 +46,9 @@ Side bar navigation drop down nesting to view child seletion.
 
  </summary>
 
- - $\color{lightgreen}{select +}$ -   View nesting child selection option 
+ - $\color{lightgreen}{select +}$ -   View nesting child selection option.
 
-- $\color{lightgreen}{select -}$ -  Close nesting selection
+- $\color{lightgreen}{select -}$ -  Close nesting selection.
 
 
 
