@@ -29,9 +29,26 @@ Upon selection of the content colapses and clicking back will close the colapsea
 
  
 
-- $\color{lightgreen}{Multi Seletion}$ -   will allow user to view more content.
+- $\color{lightgreen}{Multi\ Seletion}$ -   will allow user to view multiple content.
 
-- $\color{lightgreen}{Single  Selection}$  - will allow user to view one content at a time.
+- $\color{lightgreen}{Single\ Selection}$ - will allow user to view one content at a time.
+
+</details>
+
+
+<details>
+<summary>
+
+### $\color{cyan}{Tree-view}$
+Side bar navigation drop down nesting to view child seletion.
+
+ </summary>
+
+ 
+
+- $\color{lightgreen}{select + }$ -   View nesting child selection option 
+
+- $\color{lightgreen}{select -}$ - Close nesting selection
 
 </details>
 
