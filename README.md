@@ -1,11 +1,13 @@
-<h1 align="center"> $\textcolor{orange}{SHORT FUNCTIONAL REACT PROJECT \ }$
+<h1 align="center"> $\textcolor{orange}{SHORT\ FUNCTIONAL\  REACT\ PROJECTS\ }$
 </h1>
+<details>
+<summary>
 
-### $\color{cyan}{Libraries used}$
+### $\color{cyan}{Libraries\ used}$
 
  </summary>
 
-- $\color{lightgreen}{React Icons}$
+- $\color{lightgreen}{React\ Icons}$
   
 
 </details>
@@ -15,15 +17,17 @@
 
 
 ## Getting Started with $\textcolor{orange}{React Projects\ }$
+ </summary>
 
 <details>
 <summary>
 
 ### $\color{cyan}{Accodian}$
+Upon selection of the content colapses and clicking back will close the colapseable content.
 
  </summary>
 
- Upon selection of the content colapses and clicking back will close the colapseable content.
+ 
 
 - $\color{lightgreen}{Multi Seletion}$ -   will allow user to view more content.
 
@@ -31,6 +35,5 @@
 
 </details>
 
-<details>
-<summary>
+</details>
 
