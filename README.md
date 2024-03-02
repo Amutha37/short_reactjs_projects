@@ -1,4 +1,4 @@
-<h1 align="center"> $\textcolor{orange}{SHORT\ REACTJS\ PROJECTS\ }$
+<h1 align="center"> $\textcolor{BLUE}{SHORT\ REACTJS\ PROJECTS\ }$
 </h1>
 <details>
 <summary>
@@ -48,9 +48,9 @@
  Side bar navigation drop down nesting to view child seletion.
 
 
- - $\color{lightgreen}{select\ +}$ -   View nesting child selection option.content.
+ - $\color{lightgreen}{Select\ +}$ -   View nesting child selection option.content.
 
-- $\color{lightgreen}{select\ -}$ -   Close nesting selection.
+- $\color{lightgreen}{Select\ -}$ -   Close nesting selection.
 
 </details>
 
