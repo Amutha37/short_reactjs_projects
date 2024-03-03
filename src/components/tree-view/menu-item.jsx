@@ -1,6 +1,7 @@
 import { useState } from "react";
 import MenuList from "./menu-list";
-import { FaMinus, FaPlus } from "react-icons/fa";
+import { IoMdArrowDropdown } from "react-icons/io";
+import { IoMdArrowDropup } from "react-icons/io";
 
 const MenuItem = ({ item }) => {
   const [displayCurrentChildren, setDisplayCurrentChildren] = useState({});
@@ -15,15 +16,15 @@ const MenuItem = ({ item }) => {
 
 
   return (
-    <li >
+    <li key={item.label} >
       <div  className="menu-item" >
         <p>{item.label}</p>
         {item && item.children && item.children.length ? (
           <span onClick={() => handleToggleChildren(item.label)}>
             {displayCurrentChildren[item.label] ? (
-              <FaMinus color='#fff'/>
+              <IoMdArrowDropup  color='#fff'/>
             ) : (
-              <FaPlus color='#fff' />
+              <IoMdArrowDropdown  color='#fff' />
             )}
           </span>
         ) : null}

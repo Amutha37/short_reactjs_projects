@@ -10,6 +10,10 @@
 - $\color{lightgreen}{React\ Icons}$
 
 > `npm install react-icons --save`
+
+> `npm i react-router-dom`
+
+> `npm i react-dom`
   
 
 </details>
@@ -48,11 +52,27 @@
 
  Side bar navigation drop down nested chld option view.
 
- - $\color{lightgreen}{Select\ ▾}$ -   View nested child for more options to select.
+- $\color{lightgreen}{Select\ ▾}$ -   View nested child for more options to select.
 
 - $\color{lightgreen}{Select\ ▴}$ -   Close nested options.
 
 
 
 </details>
+
+<details>
+<summary>
+
+### $\color{cyan}{Git-Profile-Finder}$
+
+
+ </summary>
+
+ Search for github profile.
+
+- $\color{lightgreen}{Input\ name}$ -  Summary of of profile display and not found will be displayed when there is no profile.
+
+
+</details>
+
 
