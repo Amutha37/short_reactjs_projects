@@ -8,6 +8,8 @@
  </summary>
 
 - $\color{lightgreen}{React\ Icons}$
+
+> `npm install react-icons --save`
   
 
 </details>
@@ -15,7 +17,7 @@
 
 
 
-## Getting Started with $\textcolor{orange}{React\ Projects\ }$
+## $\textcolor{orange}{Projects\ List\ }$
 
 
 <details>
@@ -46,9 +48,9 @@
 
  Side bar navigation drop down nested chld option view.
 
- - $\color{lightgreen}{Select\ ▾}$ -   View nested child for more option to select.
- 
-- $\color{lightgreen}{Select\ ▴}$ -   Close nesting option.
+ - $\color{lightgreen}{Select\ ▾}$ -   View nested child for more options to select.
+
+- $\color{lightgreen}{Select\ ▴}$ -   Close nested options.
 
 
 
