@@ -47,10 +47,9 @@
 
  Side bar navigation drop down nesting to view child seletion.
 
+ - $\color{lightgreen}{Select\ ▾}$ -   View nested child for more option to select.
+- $\color{lightgreen}{Select\ ▴}$ -   Close nesting option.
 
- - $\color{lightgreen}{Select\ +}$ -   View nesting child selection option.content.
-
-- $\color{lightgreen}{Select\ -}$ -   Close nesting selection.
 
 </details>
 
