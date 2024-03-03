@@ -73,21 +73,3 @@
 
 
 </details>
-
-
-<details>
-<summary>
-
-### $\color{cyan}{Tree-view}$
-
-
- </summary>
-
- Side bar navigation drop down nested chld option view.
-
-- $\color{lightgreen}{Select\ ▾}$ -   View nested child for more options to select.
-
-- $\color{lightgreen}{Select\ ▴}$ -   Close nested options.
-
-
-</details>
