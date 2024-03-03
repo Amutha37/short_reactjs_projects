@@ -12,13 +12,11 @@
 
 </details>
 
-<details>
-<summary>
 
 
-### Getting Started with $\textcolor{orange}{React\ Projects\ }$
- </summary>
- </details>
+
+## Getting Started with $\textcolor{orange}{React\ Projects\ }$
+
 
 <details>
 <summary>
@@ -53,6 +51,4 @@
 
 
 </details>
-
-
 
