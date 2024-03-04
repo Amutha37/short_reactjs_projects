@@ -59,16 +59,6 @@
 
 </details>
 
-<details>
-<summary>
-
-### $\color{cyan}{Github-Profile-Finder}$
-
- </summary>
-
- Side bar navigation drop down nested child option view.
-
-</details>
 
 
 <details>
@@ -83,19 +73,5 @@
 
 - $\color{lightgreen}{Input\ name}$ -  Summary of of profile display and not found will be displayed when there is no profile.
 
-
-</details>
-
-<details>
-<summary>
-
-### $\color{cyan}{Github-Profile-Finder}$
-
-
- </summary>
-
- Side bar navigation drop down nested child option view.
-
-- $\color{lightgreen}{Click\ }$ -  View nested child for more options to select.
 
 </details>
