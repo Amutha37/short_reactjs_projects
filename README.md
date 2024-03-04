@@ -94,9 +94,8 @@
 
  </summary>
 
- Search for github profile.
+ Side bar navigation drop down nested child option view.
 
-- $\color{lightgreen}{Input\ name}$ -  Summary of of profile display and not found will be displayed when there is no profile.
-
+- $\color{lightgreen}{Input\ name}$ -  View nested child for more options to select.
 
 </details>
