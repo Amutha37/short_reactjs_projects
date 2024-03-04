@@ -9,22 +9,19 @@ const api = axios.create({
     baseURL: 'https://api.github.com',
   });
   
-  let response;
+  let response ;
 export default function GithubProfileFinder() {
    const [userName, setUserName ] = useState("Amutha37");
   // const [userName, setUserName ] = useState("Yumi Patron");
   const [userData, setUserData] = useState(null);
   const [loading, setLoading] = useState(true);
-  const [status,setStatus] = useState(false)
 
   async function fetchGithubUserData() {
-    setStatus(false)
   try{
      response = await api.get(`/users/${userName}`);
     console.log('response',response.data );
  } catch(err){
-setStatus(true)
-   
+    console.log('not found')
  }
 const data = response.data
 
@@ -63,8 +60,7 @@ const data = response.data
       </div>
 
       <div>
-      { status ?  <p>notfound</p> : null}  
-        { userData !== null ? <ProfileData user={userData} sta={status} /> : 'No Such User'}
+        { userData !== null ? <ProfileData user={userData}/> : 'No Such User'}
       </div>
     </div>
   );

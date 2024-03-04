@@ -67,6 +67,22 @@
 
  </summary>
 
+ Side bar navigation drop down nested child option view.
+
+- $\color{lightgreen}{Select\ name}$ -  Summary of of profile display and not found will be displayed when there is no profile.
+
+
+</details>
+
+
+<details>
+<summary>
+
+### $\color{cyan}{Github-Profile-Finder}$
+
+
+ </summary>
+
  Search for github profile.
 
 - $\color{lightgreen}{Input\ name}$ -  Summary of of profile display and not found will be displayed when there is no profile.
