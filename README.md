@@ -96,6 +96,6 @@
 
  Side bar navigation drop down nested child option view.
 
-- $\color{lightgreen}{Input\ name}$ -  View nested child for more options to select.
+- $\color{lightgreen}{Select\ name}$ -  View nested child for more options to select.
 
 </details>
