@@ -51,9 +51,9 @@
 
  Side bar navigation drop down nested chld option view.
 
-- $\color{lightgreen}{Select\ ▾}$ -   View nested child for more options to select.
+- $\color{lightgreen}{Click\ ▾}$ -   View nested child for more options to select.
 
-- $\color{lightgreen}{Select\ ▴}$ -   Close nested options.
+- $\color{lightgreen}{Click\ ▴}$ -   Close nested options.
 
 
 
@@ -96,6 +96,6 @@
 
  Side bar navigation drop down nested child option view.
 
-- $\color{lightgreen}{Select\ name}$ -  View nested child for more options to select.
+- $\color{lightgreen}{Click\ }$ -  View nested child for more options to select.
 
 </details>
